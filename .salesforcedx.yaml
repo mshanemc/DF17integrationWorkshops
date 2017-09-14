@@ -7,3 +7,4 @@ show-scratch-org-url: true
 generate-password: true
 execute-apex:
   - scripts/CustomerIDSetup.cls
+  - scripts/helloWorld.cls
