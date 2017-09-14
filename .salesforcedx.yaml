@@ -4,5 +4,6 @@ permset-name: CustomerID
 run-apex-tests: false
 delete-scratch-org: false
 show-scratch-org-url: true
+generate-password: true
 execute-apex:
   - scripts/CustomerIDSetup.cls
