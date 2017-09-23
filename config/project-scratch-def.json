@@ -1,6 +1,5 @@
 {
-    "orgName": "observatory",
-    "username": "it@17.df",
+    "orgName": "obs",
     "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
