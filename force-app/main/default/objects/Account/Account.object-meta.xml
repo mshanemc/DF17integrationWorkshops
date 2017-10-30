@@ -71,7 +71,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
-    <externalSharingModel>ReadWrite</externalSharingModel>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
