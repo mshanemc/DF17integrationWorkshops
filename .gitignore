@@ -2,3 +2,4 @@
 .sfdx
 
 **src
+.vscode/settings.json
