@@ -1,1 +1,0 @@
-system.debug('Hello, World!');
