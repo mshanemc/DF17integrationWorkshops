@@ -3,3 +3,5 @@
 
 **src
 .vscode/settings.json
+.sfdx/sfdx-config.json
+.sfdx/sfdx-config.json
