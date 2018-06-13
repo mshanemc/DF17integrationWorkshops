@@ -1,6 +1,7 @@
 {
-    "orgName": "obs",
+    "orgName": "workshops",
     "edition": "Developer",
+    "description": "Integration Workshops",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     },
