@@ -3,7 +3,8 @@
     "edition": "Developer",
     "description": "Integration Workshops",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+        "enabled": ["S1DesktopEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
     },
     "hasSampleData" : true
 }
