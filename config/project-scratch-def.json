@@ -2,9 +2,13 @@
     "orgName": "workshops",
     "edition": "Developer",
     "description": "Integration Workshops",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"],
-        "disabled": ["S1EncryptedStoragePref2"]
+    "settings": {
+        "orgPreferenceSettings": {
+            "chatterEnabled": true,
+            "pathAssistantsEnabled": true,
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+        }
     },
     "hasSampleData" : true
 }
