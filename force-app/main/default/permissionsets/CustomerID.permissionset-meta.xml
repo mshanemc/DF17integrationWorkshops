@@ -12,4 +12,8 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>CustomerID</label>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>LightningOnMobile</name>
+    </userPermissions>
 </PermissionSet>
