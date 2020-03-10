@@ -13,8 +13,7 @@
       "enableS1DesktopEnabled": true
     },
     "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false,
-      "enableLightningOnMobile": true
+      "enableS1EncryptedStoragePref2": false
     },
     "securitySettings": {
       "passwordPolicies": {
