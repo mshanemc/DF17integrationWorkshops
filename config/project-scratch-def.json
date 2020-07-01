@@ -1,25 +1,25 @@
 {
-  "orgName": "workshops",
-  "edition": "Developer",
-  "description": "Integration Workshops",
-  "settings": {
-    "chatterSettings": {
-      "enableChatter": true
+    "orgName": "workshops",
+    "edition": "Developer",
+    "description": "Integration Workshops",
+    "settings": {
+        "chatterSettings": {
+            "enableChatter": true
+        },
+        "pathAssistantSettings": {
+            "pathAssistantEnabled": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        },
+        "securitySettings": {
+            "passwordPolicies": {
+                "enableSetPasswordInApi": true
+            }
+        }
     },
-    "pathAssistantSettings": {
-      "pathAssistantEnabled": true
-    },
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
-    }
-  },
-  "hasSampleData": true
+    "hasSampleData": true
 }
